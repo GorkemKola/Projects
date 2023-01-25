@@ -36,22 +36,22 @@ The model was evaluated using several metrics:
 The model was evaluated using several metrics:
 
 - BLEU score:
-    - 1-gram: 0.63
-    - 2-gram: 0.41
-    - 3-gram: 0.31
-    - 4-gram: 0.27
-    - Cumulative BLEU score: 0.37
-- METEOR score: 0.38
+    - 1-gram: 0.65
+    - 2-gram: 0.44
+    - 3-gram: 0.35
+    - 4-gram: 0.31
+    - Cumulative BLEU score: 0.40
+- METEOR score: 0.42
 - ROUGE score:
-    - ROUGE1: 0.42
-    - ROUGE-L: 0.40
+    - ROUGE1: 0.44
+    - ROUGE-L: 0.43
 - F1 score:
-    - Mean F1 score (ROUGE-1): 0.41
-    - Mean recall (ROUGE-1): 0.42
-    - Mean precision (ROUGE-1): 0.43
-    - Mean F1 score (ROUGE-L): 0.40
-    - Mean recall (ROUGE-L): 0.41
-    - Mean precision (ROUGE-L): 0.41
+    - Mean F1 score (ROUGE-1): 0.44
+    - Mean recall (ROUGE-1): 0.45
+    - Mean precision (ROUGE-1): 0.45
+    - Mean F1 score (ROUGE-L): 0.42
+    - Mean recall (ROUGE-L): 0.43
+    - Mean precision (ROUGE-L): 0.43
 
 ## Conclusion
 
